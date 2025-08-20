@@ -20,8 +20,8 @@ A dynamic weather application built with React, that fetches real-time weather d
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/RAVITEJA/your-repo-name.git](https://github.com/RAVITEJA/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/Ravi-Teja-Kokkirapati/React-WeatherApp](https://github.com/Ravi-Teja-Kokkirapati/React-WeatherApp)
+    cd React-WeatherApp
     ```
 
 2.  **Install dependencies:**
@@ -41,8 +41,6 @@ A dynamic weather application built with React, that fetches real-time weather d
     ```bash
     npm run dev
     ```
-
-The app will be available at `http://localhost:5173` (or a similar address).
 
 
 
