@@ -1,0 +1,8 @@
+.MuiCard-root {
+    background-color: rgba(0, 0, 0, 0.4) !important; 
+    color: white; 
+}
+
+.MuiTypography-root {
+    color: white !important;
+}
