@@ -20,7 +20,6 @@ A dynamic weather application built with React, that fetches real-time weather d
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Ravi-Teja-Kokkirapati/React-WeatherApp](https://github.com/Ravi-Teja-Kokkirapati/React-WeatherApp)
     cd React-WeatherApp
     ```
 
